@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="b9a1ac78ad7ef3abedc4a4b30cd92bcacb939d1f">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-fragment-24.2.1_4e25dce5003be3de9f17074df265ee6f80ffb16d/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-v4/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-24.2.1_6a2b313628e074fe40de8544d57324677e8eed49/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="e7f3132168957eefc46229fc32c3bd464642b71e">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-ui-24.2.1_8f3cd5f5987523a0e51d131ba60b41a8f813b941/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-fragment/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="5f64d657e838e8375135c0f6057a7ff8fab6a50e">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_958b825982d51f53b85346586633a77e78db32b5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-core-ui/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="867dad63c33388ff8c7644b236579355036d075f">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_f44004fe58be791f7dbbeb39cab69d50e5cb0589/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="7e4389bd133359a2ff88623ff1e4ff93d6e6f780">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_188259386d1d176bb7ed9d822047a617c57af205/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="fbf8da429efd5ad21e02e3e5ecaa1efc4167878d">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0509af2b090bd12b06a1e09867fec9fe43e2080f/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="94bc1dfb84dcc8b6f6f8f7cc726d7b2dd39c1574">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-24.2.1_67b4b2625b38c4c7154c1dc56dafea9236ad14c6/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="0ecb4b595fa0f0f8018a149ace3ea6525624f94e">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-compat-24.2.1_5acca8eb5c9417c500f36c469fbd7d247de6c0a5/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/24.2.1/support-annotations-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="8de3aafecbdf98a61db6427f008f2d515bcd2544">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-24.2.1_81a4fa5a93580e2dd420017c2be46a27d6d89771/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-media-compat/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="09b462bbcb77650284bd6614f1a32f360ef369f8">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-media-compat-24.2.1_86a199b0ee6d6d7f12fb522bff9f69307208d436/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="d5c731fc64c03dfe04d51134955b483551c35849">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-24.2.1_4e6b4bc2ad6a067eeba0224adcdf06a5b0bb38d8/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="726613c76a03695fecb21209b08ed2f529742735">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_b3078bbf57158d145d1d0d97ff4d9810ea0ff9cd/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/libs/internal_impl-24.2.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="935a969265b2a166b2d20415423f5f6e90fe16e0">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-24.2.1_0816771e61aa43c73d3b42da9bb9db35e9a6d7ac/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/support-core-utils/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="9c4c3bc902450c39ed54de170db4fb12aea20a35">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-core-utils-24.2.1_e9e2102b0b72431cdfff2bb40692c17b16eb6023/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.2.1/jars/classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43b2dba6b5a0b14527961b75329d0b90025f15ea">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-24.2.1_dcc39569314c5d1d94e156edced987858302f594/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/Anh/Desktop/TimerApp/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="24.0.3"
+        sha1="43e945c6ff0d1d81aae49a8b6b1fb68ad104551c">
+        <dex dex="/Users/Anh/Desktop/TimerApp/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_bb7b7c4050f89e2e7d2892f6b0f1a4a58399ac49/classes.dex" />
+    </item>
+
+</items>
